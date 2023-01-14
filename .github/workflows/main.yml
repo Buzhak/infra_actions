@@ -55,4 +55,3 @@ jobs:
         with:
           push: true
           tags: ${{ secrets.MY_DOCKER_LOGIN }}/${{ secrets.MY_DOCKER_LOGIN }}:latest 
-        #test
